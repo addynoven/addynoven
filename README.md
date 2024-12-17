@@ -1,12 +1,8 @@
 <div align="center">
-  <img height="300" src="https://i.imgur.com/r4pKm5M.gif"  />
+  <img width="100%" src="https://i.imgur.com/r4pKm5M.gif"  />
 </div>
 
-###
-
 # 💻 Tech Stack:
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
@@ -19,11 +15,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
 </div>
 
-###
-
-## Frontend
-
-###
+### Frontend
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
@@ -43,11 +35,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
 </div>
 
-###
-
-## Backend
-
-###
+### Backend
 
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
@@ -65,11 +53,7 @@
   <img src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge" height="40" alt="denojs logo"  />
 </div>
 
-###
-
-## DataBase
-
-###
+### DataBase
 
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
@@ -85,11 +69,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
-## BaaS
-
-###
+### BaaS
 
 <div align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
@@ -101,7 +81,7 @@
 
 ###
 
-## Data Science
+### Data Science
 
 ###
 
@@ -117,24 +97,24 @@
 
 ###
 
-## li
+### Stay Connected
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/aditya-sahu-34350b193/" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-sahu-34350b193/" target="_blank" style="color: inherit; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/addynoven" target="_blank">
+  <a href="https://x.com/addynoven" target="_blank" style="color: inherit; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="neon8052" target="_blank">
+  <a href="neon8052" target="_blank" style="color: inherit; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.youtube.com/@neon7874" target="_blank">
+  <a href="https://www.youtube.com/@neon7874" target="_blank" style="color: inherit; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/dmcbaditya" target="_blank">
+  <a href="https://www.hackerrank.com/profile/dmcbaditya" target="_blank" style="color: inherit; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
