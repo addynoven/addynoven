@@ -2,23 +2,23 @@
   <img width="100%" src="https://i.imgur.com/r4pKm5M.gif"  />
 </div>
 
+# Hello World!, I'm neon, a Software Developer 👋🏼:
+🔭 I’m currently working on: Diving deep into Java Spring Boot while exploring backend development.<br/>
+👯 I’m looking to collaborate on: Full-stack projects, APIs, or tools that solve everyday problems.<br/>
+🤝 I’m looking for help with: Scaling Spring Boot applications... <br/>
+🌱 I’m currently learning: Spring Boot, refining my DSA skills on LeetCode.<br/>
+💬 Ask Me About: MERN Stack, Python scripts (yes, even for finding osu! tracks), or surviving the LeetCode grind without losing your soul.<br/>
+⚡ Fun Fact: I randomly build tools like music trackers or scripts to prove I have no chill when it comes to side projects.<br/>
+
 # 💻 Tech Stack:
-
-### Programming Languages
-
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
- 
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
- 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
- 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="typescript logo"  />
 </div>
-
-### Frontend
-
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
  
@@ -37,8 +37,6 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
 </div>
 
-### Backend
-
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
  
@@ -54,9 +52,6 @@
  
   <img src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge" height="40" alt="denojs logo"  />
 </div>
-
-### DataBase
-
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
  
@@ -71,8 +66,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
 </div>
 
-### BaaS
-
 <div align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
  
@@ -81,19 +74,15 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
 </div>
 
-###
-
-### Data Science
-
-###
-
 <div align="left">
+  
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="40" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" height="40" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" alt="numpy logo"  />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
- 
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
- 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
- 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
 </div>
 
