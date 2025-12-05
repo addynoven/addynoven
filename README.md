@@ -20,14 +20,14 @@
 ```yaml
 name: Aditya Sahu
 located_in: India
-job: Full-Stack Developer
-education: ["B.Tech in Computer Science"]
+job: Full-Stack Developer (specialized in AI/ML)
+education: ["MCA from Oriental Institute of Science & Technology"]
 
 fields_of_interests: ["Web Development", "Mobile Apps", "AI/ML", "Cloud Computing", "DevOps"]
 
-technical_background: ["React", "Next.js", "Flutter", "Python", "TypeScript", "Node.js", "Firebase"]
+technical_background: ["React", "Next.js", "Flutter", "Python", "TypeScript", "Node.js", "Firebase", "Dart"]
 
-currently_learning: ["AI/ML", "System Design", "Rust"]
+currently_learning: ["AI/ML", "System Design"]
 
 hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ```
