@@ -72,28 +72,42 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 Used in GitHub's Storage 
+> 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 Contributions in the Year 2025
+> 🏆 658 Contributions in the Year 2025
  > 
-> 📜 Public Repositories 
+> 🚫 Not Opted to Hire
  > 
-> 🔑 Private Repositories 
-
+> 📜 55 Public Repositories 
+ > 
+> 🔑 52 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                177 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌆 Daytime                321 commits         ████████░░░░░░░░░░░░░░░░░   33.54 % 
+🌃 Evening                337 commits         █████████░░░░░░░░░░░░░░░░   35.21 % 
+🌙 Night                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 ```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Tuesday                  139 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Wednesday                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Friday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Saturday                 263 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+Sunday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -113,7 +127,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
- Last Updated on 06/12/2025 04:22:00 UTC
+
+ Last Updated on 05/12/2025 23:14:11 UTC
 <!--END_SECTION:waka-->
 
 ---
