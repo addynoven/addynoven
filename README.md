@@ -55,10 +55,10 @@
 ### ⏱️ WakaTime Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=addynoven&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=addynoven&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" alt="WakaTime Stats" />
 </div>
 
-> 💡 *To enable WakaTime: [wakatime.com](https://wakatime.com) → Install plugin → Link to GitHub*
+> � *Tracks my weekly coding activity*
 
 ---
 
