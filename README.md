@@ -2,7 +2,9 @@
   
 # Hey, I'm Aditya 👋
 
-**Full-Stack Developer** • Building apps & breaking things
+<!-- TYPING:START -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=I+am+Aditya;Full-Stack+Developer" alt="Typing SVG" />
+<!-- TYPING:END -->
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/412114638289895435?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding...&cache_bust=1)](https://discord.com/users/412114638289895435)
 
