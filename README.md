@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=addynoven&theme=tokyonight&hide_border=true&cache_bust=2" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=addynoven&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
