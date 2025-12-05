@@ -82,7 +82,7 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=addynoven&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=addynoven.addynoven&left_color=grey&right_color=blueviolet&style=for-the-badge)
   
   <br/><br/>
   
