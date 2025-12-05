@@ -23,11 +23,12 @@ located_in: India
 job: Full-Stack Developer
 education: ["B.Tech in Computer Science"]
 
-fields_of_interests: ["Web Development", "Mobile Apps", "AI/ML", 
-                      "Cloud Computing", "DevOps"]
-technical_background: ["React", "Next.js", "Flutter", "Python", 
-                       "TypeScript", "Node.js", "Firebase"]
+fields_of_interests: ["Web Development", "Mobile Apps", "AI/ML", "Cloud Computing", "DevOps"]
+
+technical_background: ["React", "Next.js", "Flutter", "Python", "TypeScript", "Node.js", "Firebase"]
+
 currently_learning: ["AI/ML", "System Design", "Rust"]
+
 hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ```
 
