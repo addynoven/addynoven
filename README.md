@@ -14,11 +14,6 @@
 
 </div>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=addynoven&theme=tokyonight&no-frame=true&column=7" />
-</p>
-
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=addynoven&theme=tokyo-night&hide_border=true&custom_title=Aditya's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
