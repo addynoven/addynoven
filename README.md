@@ -17,10 +17,12 @@
 ### � Currently Working With
 
 <!-- STACK:START -->
-  🎯 Flutter/Dart
   💙 TypeScript
-  ⚡ JavaScript
+  📦 Jupyter Notebook
   🐍 Python
+  🎨 CSS
+  ⚡ JavaScript
+  📦 Procfile
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
@@ -62,6 +64,6 @@
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=addynoven.addynoven&right_color=blueviolet)
   
-  <!-- UPDATED:START --> *Last updated: December 05, 2024* <!-- UPDATED:END -->
+  <!-- UPDATED:START --> *Last updated: December 05, 2025* <!-- UPDATED:END -->
   
 </div>
