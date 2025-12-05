@@ -144,7 +144,7 @@ No Activity Tracked This Week
 
 ---
 
-### 💬 Random Dev Quote
+### 💬Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
