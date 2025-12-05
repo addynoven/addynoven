@@ -4,11 +4,11 @@
 
 **Full-Stack Developer** • Building apps & breaking things
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/412114638289895435?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding...)](https://discord.com/users/412114638289895435)
+[![Discord Presence](https://lanyard.cnrad.dev/api/412114638289895435?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding...&cache_bust=1)](https://discord.com/users/412114638289895435)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sahu-34350b193/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/addynoven)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@neon7874)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&cache_bust=1)](https://www.linkedin.com/in/aditya-sahu-34350b193/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&cache_bust=1)](https://x.com/addynoven)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white&cache_bust=1)](https://www.youtube.com/@neon7874)
 
 </div>
 
@@ -40,12 +40,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=addynoven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=addynoven&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=addynoven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=addynoven&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=addynoven&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=addynoven&theme=tokyonight&hide_border=true&cache_bust=1" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 
 <div align="center">
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=addynoven.addynoven&right_color=blueviolet)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=addynoven.addynoven&right_color=blueviolet&cache_bust=1)
   
   <!-- UPDATED:START --> *Last updated: December 05, 2025* <!-- UPDATED:END -->
   
