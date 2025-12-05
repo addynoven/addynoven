@@ -52,6 +52,16 @@
 
 ---
 
+### ⏱️ WakaTime Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=addynoven&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</div>
+
+> 💡 *To enable WakaTime: [wakatime.com](https://wakatime.com) → Install plugin → Link to GitHub*
+
+---
+
 ### � Contribution Graph
 
 <picture>
@@ -62,10 +72,25 @@
 
 ---
 
+### 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
 <div align="center">
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=addynoven.addynoven&right_color=blueviolet&cache_bust=1)
+  <img src="https://komarev.com/ghpvc/?username=addynoven&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
   
-  <!-- UPDATED:START --> *Last updated: December 05, 2025* <!-- UPDATED:END -->
+  <br/><br/>
+  
+  <img src="https://img.shields.io/github/followers/addynoven?style=for-the-badge&logo=github&label=Followers&color=1DA1F2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/addynoven?style=for-the-badge&logo=github&label=Stars&color=FFD700" alt="Stars" />
+  
+  <br/><br/>
+  
+  <!-- UPDATED:START --> *Last updated: December 06, 2025* <!-- UPDATED:END -->
   
 </div>
