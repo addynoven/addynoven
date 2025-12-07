@@ -143,11 +143,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
-<<<<<<< HEAD
- Last Updated on 07/12/2025 12:41:02 UTC
-=======
 
->>>>>>> 55dde9d (docs: revise README content)
 <!--END_SECTION:waka-->
 
 ---
