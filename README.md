@@ -2,6 +2,9 @@
   
 # Hey, I'm Aditya 👋
 
+<img src="unnamed.gif" alt="Animation" />
+
+
 <!-- TYPING:START -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=495&lines=Training+AI+Models;Crunching+Data+with+Python" alt="Typing SVG" />
 <!-- TYPING:END -->
