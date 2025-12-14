@@ -40,12 +40,12 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### 🛠 Currently Working With
 
 <!-- STACK:START -->
+  🎯 Flutter/Dart
   💙 TypeScript
   📦 Jupyter Notebook
-  🐍 Python
   🎨 CSS
-  ⚡ JavaScript
-  📦 Procfile
+  🐍 Python
+  ⚙️ C++
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
@@ -55,11 +55,16 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-3. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-4. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-5. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+1. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+2. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+3. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+4. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+5. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+6. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+7. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+8. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+9. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+10. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
