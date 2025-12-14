@@ -65,7 +65,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=addynoven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=addynoven&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://leetcard.jacoblin.cool/addynoven?theme=tokyo-night&font=Fira%20Code&ext=heatmap" />
+  <img height="180em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=tokyo-night&font=Fira%20Code&ext=heatmap" />
 </div>
 
 <div align="center">
