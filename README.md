@@ -61,7 +61,6 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 3. `2025-11-30` 🔨 Pushed 1 commits to [addynoven/imdb-sentiment-rnn](https://github.com/addynoven/imdb-sentiment-rnn)<br>
 4. `2025-11-27` 🔨 Pushed 1 commits to [addynoven/dog_breed_identifier_frontend](https://github.com/addynoven/dog_breed_identifier_frontend)<br>
 5. `2025-11-25` 🔨 Pushed 1 commits to [addynoven/old_dog_breed_identifier_backend](https://github.com/addynoven/old_dog_breed_identifier_backend)<br>
-6. `2025-11-24` 🔨 Pushed 1 commits to [addynoven/Predicting-Customer-departure](https://github.com/addynoven/Predicting-Customer-departure)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
