@@ -82,6 +82,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
    <a href="https://leetcode.com/u/dmcbaditya/"> <img height="180em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" /></a>
 </div>
 <br/>
+
 ---
 
 ### ⏱️ WakaTime Stats
