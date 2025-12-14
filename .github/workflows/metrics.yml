@@ -24,37 +24,6 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       # ======================
-      # 🏆 Achievements
-      # ======================
-      - name: 🏆 Achievements
-        uses: lowlighter/metrics@latest
-        continue-on-error: true
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
-
-      # ======================
-      # 💡 Coding Habits
-      # ======================
-      - name: 💡 Coding Habits
-        uses: lowlighter/metrics@latest
-        continue-on-error: true
-        with:
-          filename: metrics.plugin.habits.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_from: 100
-
-      # ======================
       # 🈷️ Languages
       # ======================
       - name: 🈷️ Languages Activity

@@ -92,29 +92,6 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 ---
 
-### 📅 Contribution Calendar
-
-<div align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar" />
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="./metrics.plugin.achievements.svg" alt="Achievements" />
-</div>
-
----
-
-### 💡 Coding Habits
-
-<div align="center">
-  <img src="./metrics.plugin.habits.svg" alt="Coding Habits" />
-</div>
-
----
 
 ### 🈷️ Recently Used Languages
 
@@ -210,7 +187,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 ---
 
-### 🎮 Contribution Graph
+### 📅 Contribution Calendar
+
+<div align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/addynoven/addynoven/output/pacman-contribution-graph-dark.svg" />
