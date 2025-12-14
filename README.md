@@ -56,11 +56,11 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <!--RECENT_ACTIVITY:start-->
 1. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
-3. `2025-12-13` 🔨 Pushed 1 commits to [addynoven/chat-app-frontend](https://github.com/addynoven/chat-app-frontend)<br>
-4. `2025-12-10` ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
-5. `2025-12-09` 🔨 Pushed 1 commits to [addynoven/neonflix](https://github.com/addynoven/neonflix)<br>
-6. `2025-12-07` 🔨 Pushed 1 commits to [addynoven/lms-lite-app](https://github.com/addynoven/lms-lite-app)<br>
+2. `2025-12-10` ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
+3. `2025-11-30` 🔨 Pushed 1 commits to [addynoven/imdb-sentiment-rnn](https://github.com/addynoven/imdb-sentiment-rnn)<br>
+4. `2025-11-27` 🔨 Pushed 1 commits to [addynoven/dog_breed_identifier_frontend](https://github.com/addynoven/dog_breed_identifier_frontend)<br>
+5. `2025-11-25` 🔨 Pushed 1 commits to [addynoven/old_dog_breed_identifier_backend](https://github.com/addynoven/old_dog_breed_identifier_backend)<br>
+6. `2025-11-24` 🔨 Pushed 1 commits to [addynoven/Predicting-Customer-departure](https://github.com/addynoven/Predicting-Customer-departure)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
