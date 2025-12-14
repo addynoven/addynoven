@@ -84,7 +84,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <div align="center">
   <!-- Row 2: LeetCode -->
-  <img height="180em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=tokyo-night&font=Fira%20Code&ext=heatmap" />
+ <a href="https://leetcode.com/addynoven/"> <img height="180em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=tokyo-night&font=Fira%20Code&ext=heatmap" /></a>
 </div>
 
 ---
