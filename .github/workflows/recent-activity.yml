@@ -15,5 +15,3 @@ jobs:
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          CONFIG_FILE: ".github/recent-activity.config.yml"
