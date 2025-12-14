@@ -188,10 +188,6 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 ### 🎮 Contribution Graph
 
-<div align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/addynoven/addynoven/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/addynoven/addynoven/output/pacman-contribution-graph.svg" />
