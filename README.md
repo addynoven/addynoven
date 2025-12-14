@@ -79,11 +79,17 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 <div align="center">
   <!-- Row 2:Streak -->
   <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=addynoven&theme=tokyonight&hide_border=true" />
-   <a href="https://leetcode.com/u/dmcbaditya/"> <img height="180em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" /></a>
 </div>
 <br/>
 
 ---
+
+### 📊 LeetCode Stats
+
+<a href="https://leetcode.com/u/dmcbaditya/"> <img height="180em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" /></a>
+
+---
+
 
 ### ⏱️ WakaTime Stats
 
