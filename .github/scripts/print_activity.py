@@ -73,9 +73,9 @@ def get_recent_activity():
         event_type = event.get("type")
         repo_url = f"https://github.com/{repo_name}"
         
-        # REMOVED: Unique entry per repo check to show ALL history
-        # if repo_name in seen_repos:
-        #    continue
+        # Unique entry per repo check to show ALL history
+        if repo_name in seen_repos:
+           continue
             
         item_text = ""
         if event_type == "PushEvent":

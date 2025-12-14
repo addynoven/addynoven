@@ -130,10 +130,9 @@ def get_recent_activity():
         event_type = event.get("type")
         repo_url = f"https://github.com/{repo_name}"
         
-        # NOTE: Keeping deduplication disabled if you want to see all activity
-        # If it gets too noisy, uncomment the lines below
-        # if repo_name in seen_repos:
-        #     continue
+        # Unique entry per repo for cleaner look
+        if repo_name in seen_repos:
+            continue
             
         item_text = ""
         if event_type == "PushEvent":

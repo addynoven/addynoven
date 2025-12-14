@@ -56,15 +56,11 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <!--RECENT_ACTIVITY:start-->
 1. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-3. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-4. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-5. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-6. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-7. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-8. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-9. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-10. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+2. `2025-12-14` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
+3. `2025-12-13` 🔨 Pushed 1 commits to [addynoven/chat-app-frontend](https://github.com/addynoven/chat-app-frontend)<br>
+4. `2025-12-10` ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
+5. `2025-12-09` 🔨 Pushed 1 commits to [addynoven/neonflix](https://github.com/addynoven/neonflix)<br>
+6. `2025-12-07` 🔨 Pushed 1 commits to [addynoven/lms-lite-app](https://github.com/addynoven/lms-lite-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
