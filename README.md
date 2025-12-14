@@ -68,13 +68,17 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### 📊 GitHub Stats
 
 <div align="center">
+  <!-- Row 1: GitHub Stats + Top Languages -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=addynoven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=addynoven&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=tokyo-night&font=Fira%20Code&ext=heatmap" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=addynoven&theme=tokyonight&hide_border=true" />
+  <!-- Row 2: LeetCode + Streak -->
+  <img height="200em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=tokyo-night&font=Fira%20Code&ext=heatmap" />
+  <img height="200em" src="https://github-readme-streak-stats-eight.vercel.app/?user=addynoven&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
