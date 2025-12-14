@@ -21,7 +21,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -33,7 +33,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -46,7 +46,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -61,7 +61,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
