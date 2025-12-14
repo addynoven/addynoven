@@ -55,7 +55,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!-- ACTIVITY:START -->
-1. 🔭 Working on something awesome...
+- 🔭 Working on something awesome...
 <!-- ACTIVITY:END -->
 
 ---
