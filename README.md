@@ -77,8 +77,8 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <div align="center">
   <!-- Row 2: LeetCode + Streak -->
-  <img height="200em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=tokyo-night&font=Fira%20Code&ext=heatmap" />
   <img height="200em" src="https://github-readme-streak-stats-eight.vercel.app/?user=addynoven&theme=tokyonight&hide_border=true" />
+    <img height="200em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=tokyo-night&font=Fira%20Code&ext=heatmap" />
 </div>
 
 ---
