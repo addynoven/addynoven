@@ -2,11 +2,8 @@ name: Update Readme Custom
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
+    - cron: '0 */3 * * *' # Every 3 hours
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   update-readme:
@@ -35,4 +32,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update readme activity" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update readme activity" && git pull --rebase origin main && git push)
