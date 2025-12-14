@@ -55,7 +55,11 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔭 Working on something awesome...
+1. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+2. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+3. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+4. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+5. ⬆️ Pushed undefined commit(s) to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
