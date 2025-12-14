@@ -86,7 +86,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 ### 📊 LeetCode Stats
 
-<a href="https://leetcode.com/u/dmcbaditya/"> <img height="180em" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" /></a>
+<a href="https://leetcode.com/u/dmcbaditya/"> <img width="100%" src="https://leetcard.jacoblin.cool/dmcbaditya?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" /></a>
 
 ---
 
