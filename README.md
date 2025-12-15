@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey, I'm Aditya 👋
+# Hey, I'm Aditya (neon) 👋
 
 <img src="unnamed.gif" alt="Animation" />
 
