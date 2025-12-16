@@ -2,7 +2,7 @@
   
 # Hey, I'm Aditya (neon) 👋
 
-<img src="unnamed_opt_small.gif" alt="Animation" />
+<img src="unnamed_opt_small.gif" alt="Animation" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />
 
 
 <!-- TYPING:START -->
