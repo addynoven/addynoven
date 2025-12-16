@@ -91,14 +91,6 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ---
 
 
-### 🈷️ Most Used Languages
-
-<div align="center">
-  <img src="./metrics.plugin.languages.svg" alt="Languages" />
-</div>
-
----
-
 
 ### ⏱️ WakaTime Stats
 
