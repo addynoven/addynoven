@@ -59,7 +59,6 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 1. `2025-12-16` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
 2. `2025-12-10` ⭐ Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)<br>
 3. `2025-11-30` 🔨 Pushed 1 commits to [addynoven/imdb-sentiment-rnn](https://github.com/addynoven/imdb-sentiment-rnn)<br>
-4. `2025-11-27` 🔨 Pushed 1 commits to [addynoven/dog_breed_identifier_frontend](https://github.com/addynoven/dog_breed_identifier_frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
