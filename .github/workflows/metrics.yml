@@ -11,17 +11,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      # ======================
-      # 📅 Isometric Calendar
-      # ======================
-      - name: 📅 Isometric Calendar (Full Year)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
       # ======================
       # 🈷️ Languages
