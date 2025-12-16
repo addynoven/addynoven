@@ -91,7 +91,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ---
 
 
-### 🈷️ Recently Used Languages
+### 🈷️ Most Used Languages
 
 <div align="center">
   <img src="./metrics.plugin.languages.svg" alt="Languages" />
