@@ -106,9 +106,9 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 61 Public Repositories 
+> 📜 62 Public Repositories 
  > 
-> 🔑 50 Private Repositories 
+> 🔑 49 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -170,7 +170,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2025 18:12:16 UTC
+ Last Updated on 17/12/2025 18:22:04 UTC
 <!--END_SECTION:waka-->
 
 ---
