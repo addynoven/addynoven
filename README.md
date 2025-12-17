@@ -43,10 +43,10 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 <!-- STACK:START -->
   🎯 Flutter/Dart
   💙 TypeScript
-  📦 Jupyter Notebook
   🎨 CSS
   🐍 Python
   ⚙️ C++
+  ⚡ JavaScript
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
