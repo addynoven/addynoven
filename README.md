@@ -56,9 +56,9 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2025-12-21` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
-2. `2025-12-21` 🔨 Pushed 1 commits to [addynoven/RI_store](https://github.com/addynoven/RI_store)<br>
-3. `2025-12-21` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+1. `2025-12-21` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+2. `2025-12-21` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
+3. `2025-12-21` 🔨 Pushed 1 commits to [addynoven/RI_store](https://github.com/addynoven/RI_store)<br>
 4. `2025-12-20` 🔨 Pushed 1 commits to [addynoven/dart_dsa](https://github.com/addynoven/dart_dsa)<br>
 <!--RECENT_ACTIVITY:end-->
 
