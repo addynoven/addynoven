@@ -56,16 +56,16 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2025-12-24` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2025-12-23` ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
-3. `2025-12-23` ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
-4. `2025-12-23` ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
-5. `2025-12-23` ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)<br>
-6. `2025-12-23` ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-7. `2025-12-23` ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
-8. `2025-12-23` ⭐ Starred [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives)<br>
-9. `2025-12-23` ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)<br>
-10. `2025-12-23` ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
+1. `2025-12-24` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
+2. `2025-12-24` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+3. `2025-12-23` ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
+4. `2025-12-23` ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
+5. `2025-12-23` ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
+6. `2025-12-23` ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)<br>
+7. `2025-12-23` ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+8. `2025-12-23` ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
+9. `2025-12-23` ⭐ Starred [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives)<br>
+10. `2025-12-23` ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
