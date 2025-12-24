@@ -45,8 +45,8 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
   🎯 Flutter/Dart
   🎨 CSS
   ⚙️ C++
-  🐍 Python
   ⚡ JavaScript
+  🐍 Python
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
