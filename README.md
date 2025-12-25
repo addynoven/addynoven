@@ -6,7 +6,7 @@
 
 
 <!-- TYPING:START -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=495&lines=Building+Web+Apps;TypeScript+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=495&lines=Building+Mobile+Apps;Flutter+Development" alt="Typing SVG" />
 <!-- TYPING:END -->
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/412114638289895435?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding...)](https://discord.com/users/412114638289895435)
