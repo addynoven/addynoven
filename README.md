@@ -101,7 +101,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
 
@@ -179,7 +179,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2025 01:58:34 UTC
+ Last Updated on 29/12/2025 12:51:09 UTC
 <!--END_SECTION:waka-->
 
 ---
