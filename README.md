@@ -101,34 +101,34 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.06%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.07%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 11 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 62 Public Repositories 
  > 
-> 🔑 52 Private Repositories 
+> 🔑 53 Private Repositories 
  > 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               36 repos            █████████░░░░░░░░░░░░░░░░   36.00 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Jupyter Notebook         2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               36 repos            █████████░░░░░░░░░░░░░░░░   35.64 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 
 
 
- Last Updated on 03/01/2026 01:46:42 UTC
+ Last Updated on 03/01/2026 12:44:30 UTC
 <!--END_SECTION:waka-->
 
 ---
