@@ -45,8 +45,8 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
   🎯 Flutter/Dart
   🌐 HTML/CSS
   🐍 Python
-  🎨 CSS
   ⚙️ C++
+  📦 CMake
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
