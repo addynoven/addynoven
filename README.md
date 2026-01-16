@@ -46,7 +46,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
   🌐 HTML/CSS
   🐍 Python
   ⚙️ C++
-  📦 CMake
+  🎨 CSS
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
