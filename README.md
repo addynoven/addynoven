@@ -61,7 +61,6 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 3. `2026-01-10` ⭐ Starred [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)<br>
 4. `2025-12-28` 🔨 Pushed 1 commits to [addynoven/RI_store](https://github.com/addynoven/RI_store)<br>
 5. `2025-12-25` 🔨 Pushed 1 commits to [addynoven/dart_dsa](https://github.com/addynoven/dart_dsa)<br>
-6. `2025-12-24` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
