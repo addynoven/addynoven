@@ -41,7 +41,12 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### 🛠 Currently Working With
 
 <!-- STACK:START -->
-Currently exploring new technologies...
+  💙 TypeScript
+  🎯 Flutter/Dart
+  🌐 HTML/CSS
+  🐍 Python
+  ⚙️ C++
+  🎨 CSS
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
@@ -52,7 +57,6 @@ Currently exploring new technologies...
 
 <!--RECENT_ACTIVITY:start-->
 1. `2026-02-11` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-01-12` 🔨 Pushed 1 commits to [addynoven/wallpaper_set](https://github.com/addynoven/wallpaper_set)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
