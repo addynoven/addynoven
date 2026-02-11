@@ -41,12 +41,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### 🛠 Currently Working With
 
 <!-- STACK:START -->
-  💙 TypeScript
-  🎯 Flutter/Dart
-  🌐 HTML/CSS
-  🐍 Python
-  ⚙️ C++
-  🎨 CSS
+Currently exploring new technologies...
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
