@@ -46,7 +46,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
   🌐 HTML/CSS
   🐍 Python
   🎨 CSS
-  ⚙️ C++
+  ⚡ JavaScript
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
@@ -56,9 +56,10 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-03-22` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-03-19` 🔨 Pushed 1 commits to [addynoven/voice_assistant_final](https://github.com/addynoven/voice_assistant_final)<br>
-3. `2026-03-14` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
+1. `2026-03-22` 🔨 Pushed 1 commits to [addynoven/MediaFlow](https://github.com/addynoven/MediaFlow)<br>
+2. `2026-03-22` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+3. `2026-03-19` 🔨 Pushed 1 commits to [addynoven/voice_assistant_final](https://github.com/addynoven/voice_assistant_final)<br>
+4. `2026-03-14` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
