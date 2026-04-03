@@ -56,8 +56,8 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-04-03` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
-2. `2026-04-03` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+1. `2026-04-03` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+2. `2026-04-03` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
 3. `2026-03-26` 🔨 Pushed 1 commits to [raobadalyadav11/promoly-creator](https://github.com/raobadalyadav11/promoly-creator)<br>
 4. `2026-03-22` 🔨 Pushed 1 commits to [addynoven/MediaFlow](https://github.com/addynoven/MediaFlow)<br>
 5. `2026-03-19` 🔨 Pushed 1 commits to [addynoven/voice_assistant_final](https://github.com/addynoven/voice_assistant_final)<br>
