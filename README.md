@@ -97,7 +97,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -163,17 +163,17 @@ Windows                  4 hrs 36 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               53 repos            ██████████░░░░░░░░░░░░░░░   41.73 % 
-JavaScript               34 repos            ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-Dart                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Python                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+TypeScript               54 repos            ███████████░░░░░░░░░░░░░░   42.19 % 
+JavaScript               34 repos            ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Dart                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 05/04/2026 02:40:07 UTC
+ Last Updated on 05/04/2026 13:03:12 UTC
 <!--END_SECTION:waka-->
 
 ---
