@@ -42,11 +42,11 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <!-- STACK:START -->
   💙 TypeScript
-  🎯 Flutter/Dart
   🌐 HTML/CSS
   🐍 Python
+  🎯 Flutter/Dart
   ⚡ JavaScript
-  ⚙️ C++
+  🎨 CSS
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
@@ -56,13 +56,14 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-04-12` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-04-10` ⭐ Starred [iv-org/invidious](https://github.com/iv-org/invidious)<br>
-3. `2026-04-07` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
-4. `2026-03-26` 🔨 Pushed 1 commits to [raobadalyadav11/promoly-creator](https://github.com/raobadalyadav11/promoly-creator)<br>
-5. `2026-03-22` 🔨 Pushed 1 commits to [addynoven/MediaFlow](https://github.com/addynoven/MediaFlow)<br>
-6. `2026-03-19` 🔨 Pushed 1 commits to [addynoven/voice_assistant_final](https://github.com/addynoven/voice_assistant_final)<br>
-7. `2026-03-14` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
+1. `2026-04-12` 🔨 Pushed 1 commits to [addynoven/commerce](https://github.com/addynoven/commerce)<br>
+2. `2026-04-12` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+3. `2026-04-10` ⭐ Starred [iv-org/invidious](https://github.com/iv-org/invidious)<br>
+4. `2026-04-07` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
+5. `2026-03-26` 🔨 Pushed 1 commits to [raobadalyadav11/promoly-creator](https://github.com/raobadalyadav11/promoly-creator)<br>
+6. `2026-03-22` 🔨 Pushed 1 commits to [addynoven/MediaFlow](https://github.com/addynoven/MediaFlow)<br>
+7. `2026-03-19` 🔨 Pushed 1 commits to [addynoven/voice_assistant_final](https://github.com/addynoven/voice_assistant_final)<br>
+8. `2026-03-14` 🔨 Pushed 1 commits to [addynoven/Portfolio-v1](https://github.com/addynoven/Portfolio-v1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
