@@ -42,10 +42,10 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <!-- STACK:START -->
   💙 TypeScript
-  🌐 HTML/CSS
   🎯 Flutter/Dart
-  ⚡ JavaScript
+  🌐 HTML/CSS
   🐍 Python
+  ⚡ JavaScript
   🎨 CSS
 <!-- STACK:END -->
 
@@ -57,7 +57,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <!--RECENT_ACTIVITY:start-->
 1. `2026-05-01` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-04-30` 🔨 Pushed 1 commits to [addynoven/music-package](https://github.com/addynoven/music-package)<br>
+2. `2026-05-01` ⭐ Starred [addynoven/music-package](https://github.com/addynoven/music-package)<br>
 3. `2026-04-27` 🔨 Pushed 1 commits to [addynoven/printing_backend](https://github.com/addynoven/printing_backend)<br>
 4. `2026-04-27` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
 5. `2026-04-24` ⭐ Starred [Lumos-Labs-HQ/flash](https://github.com/Lumos-Labs-HQ/flash)<br>
