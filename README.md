@@ -56,14 +56,14 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-05-05` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-05-03` 🔨 Pushed 1 commits to [addynoven/music-package](https://github.com/addynoven/music-package)<br>
-3. `2026-05-03` 🔨 Pushed 1 commits to [addynoven/printing_backend](https://github.com/addynoven/printing_backend)<br>
-4. `2026-05-01` ⭐ Starred [Neilblaze/URL-Dinogame](https://github.com/Neilblaze/URL-Dinogame)<br>
-5. `2026-05-01` ⭐ Starred [Neilblaze/portscope](https://github.com/Neilblaze/portscope)<br>
-6. `2026-04-27` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
-7. `2026-04-24` ⭐ Starred [Lumos-Labs-HQ/flash](https://github.com/Lumos-Labs-HQ/flash)<br>
-8. `2026-04-24` 🔨 Pushed 1 commits to [addynoven/dammage-backend](https://github.com/addynoven/dammage-backend)<br>
+1. `2026-05-05` ⭐ Starred [ferrolho/magnet-player](https://github.com/ferrolho/magnet-player)<br>
+2. `2026-05-05` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+3. `2026-05-03` 🔨 Pushed 1 commits to [addynoven/music-package](https://github.com/addynoven/music-package)<br>
+4. `2026-05-03` 🔨 Pushed 1 commits to [addynoven/printing_backend](https://github.com/addynoven/printing_backend)<br>
+5. `2026-05-01` ⭐ Starred [Neilblaze/URL-Dinogame](https://github.com/Neilblaze/URL-Dinogame)<br>
+6. `2026-05-01` ⭐ Starred [Neilblaze/portscope](https://github.com/Neilblaze/portscope)<br>
+7. `2026-04-27` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
+8. `2026-04-24` ⭐ Starred [Lumos-Labs-HQ/flash](https://github.com/Lumos-Labs-HQ/flash)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
