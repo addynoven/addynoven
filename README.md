@@ -56,16 +56,16 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-05-10` ⭐ Starred [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)<br>
-2. `2026-05-10` ⭐ Starred [pystardust/ani-cli](https://github.com/pystardust/ani-cli)<br>
-3. `2026-05-10` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-4. `2026-05-09` 🔨 Pushed 1 commits to [addynoven/printing_backend](https://github.com/addynoven/printing_backend)<br>
-5. `2026-05-09` 🔨 Pushed 1 commits to [addynoven/bemuse](https://github.com/addynoven/bemuse)<br>
-6. `2026-05-05` ⭐ Starred [ferrolho/magnet-player](https://github.com/ferrolho/magnet-player)<br>
-7. `2026-05-03` 🔨 Pushed 1 commits to [addynoven/music-package](https://github.com/addynoven/music-package)<br>
-8. `2026-05-01` ⭐ Starred [Neilblaze/URL-Dinogame](https://github.com/Neilblaze/URL-Dinogame)<br>
-9. `2026-05-01` ⭐ Starred [Neilblaze/portscope](https://github.com/Neilblaze/portscope)<br>
-10. `2026-04-27` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
+1. `2026-05-10` ⭐ Starred [MrBoomDeveloper/Awery](https://github.com/MrBoomDeveloper/Awery)<br>
+2. `2026-05-10` ⭐ Starred [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi)<br>
+3. `2026-05-10` ⭐ Starred [MALSync/MALSync](https://github.com/MALSync/MALSync)<br>
+4. `2026-05-10` ⭐ Starred [open-ani/animeko](https://github.com/open-ani/animeko)<br>
+5. `2026-05-10` ⭐ Starred [miru-project/miru-app](https://github.com/miru-project/miru-app)<br>
+6. `2026-05-10` ⭐ Starred [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)<br>
+7. `2026-05-10` ⭐ Starred [pystardust/ani-cli](https://github.com/pystardust/ani-cli)<br>
+8. `2026-05-10` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+9. `2026-05-09` 🔨 Pushed 1 commits to [addynoven/printing_backend](https://github.com/addynoven/printing_backend)<br>
+10. `2026-05-09` 🔨 Pushed 1 commits to [addynoven/bemuse](https://github.com/addynoven/bemuse)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
