@@ -56,16 +56,16 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-05-11` ⭐ Starred [allenai/molmoweb](https://github.com/allenai/molmoweb)<br>
-3. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/dammage-backend](https://github.com/addynoven/dammage-backend)<br>
-4. `2026-05-11` ⭐ Starred [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)<br>
-5. `2026-05-10` ⭐ Starred [MrBoomDeveloper/Awery](https://github.com/MrBoomDeveloper/Awery)<br>
-6. `2026-05-10` ⭐ Starred [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi)<br>
-7. `2026-05-10` ⭐ Starred [MALSync/MALSync](https://github.com/MALSync/MALSync)<br>
-8. `2026-05-10` ⭐ Starred [open-ani/animeko](https://github.com/open-ani/animeko)<br>
-9. `2026-05-10` ⭐ Starred [miru-project/miru-app](https://github.com/miru-project/miru-app)<br>
-10. `2026-05-10` ⭐ Starred [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)<br>
+1. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
+2. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+3. `2026-05-11` ⭐ Starred [allenai/molmoweb](https://github.com/allenai/molmoweb)<br>
+4. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/dammage-backend](https://github.com/addynoven/dammage-backend)<br>
+5. `2026-05-11` ⭐ Starred [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)<br>
+6. `2026-05-10` ⭐ Starred [MrBoomDeveloper/Awery](https://github.com/MrBoomDeveloper/Awery)<br>
+7. `2026-05-10` ⭐ Starred [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi)<br>
+8. `2026-05-10` ⭐ Starred [MALSync/MALSync](https://github.com/MALSync/MALSync)<br>
+9. `2026-05-10` ⭐ Starred [open-ani/animeko](https://github.com/open-ani/animeko)<br>
+10. `2026-05-10` ⭐ Starred [miru-project/miru-app](https://github.com/miru-project/miru-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
