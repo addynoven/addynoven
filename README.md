@@ -42,11 +42,11 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <!-- STACK:START -->
   💙 TypeScript
-  🎯 Flutter/Dart
   🌐 HTML/CSS
   🐍 Python
   ⚡ JavaScript
   🎨 CSS
+  📦 Batchfile
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
@@ -203,7 +203,7 @@ Go                       4 repos             █░░░░░░░░░░�
   
   <br/><br/>
   
-  <!-- UPDATED:START --> *Last updated: May 13, 2026* <!-- UPDATED:END -->
+  <!-- UPDATED:START --> *Last updated: May 14, 2026* <!-- UPDATED:END -->
   
 </div>
 
