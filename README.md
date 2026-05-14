@@ -109,13 +109,13 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 736 Contributions in the Year 2026
+> 🏆 738 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 85 Public Repositories 
+> 📜 86 Public Repositories 
  > 
-> 🔑 69 Private Repositories 
+> 🔑 68 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -159,17 +159,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               60 repos            ███████████░░░░░░░░░░░░░░   43.17 % 
-Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Dart                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+TypeScript               60 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Dart                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 13/05/2026 14:40:31 UTC
+ Last Updated on 14/05/2026 03:36:46 UTC
 <!--END_SECTION:waka-->
 
 ---
