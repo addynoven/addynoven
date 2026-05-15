@@ -42,9 +42,9 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <!-- STACK:START -->
   💙 TypeScript
+  ⚡ JavaScript
   🌐 HTML/CSS
   🐍 Python
-  ⚡ JavaScript
   🎨 CSS
   📦 Batchfile
 <!-- STACK:END -->
@@ -56,16 +56,16 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-05-14` ⭐ Starred [clowerweb/tts-studio](https://github.com/clowerweb/tts-studio)<br>
-2. `2026-05-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-3. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
-4. `2026-05-11` ⭐ Starred [allenai/molmoweb](https://github.com/allenai/molmoweb)<br>
-5. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/dammage-backend](https://github.com/addynoven/dammage-backend)<br>
-6. `2026-05-11` ⭐ Starred [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)<br>
-7. `2026-05-10` ⭐ Starred [MrBoomDeveloper/Awery](https://github.com/MrBoomDeveloper/Awery)<br>
-8. `2026-05-10` ⭐ Starred [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi)<br>
-9. `2026-05-10` ⭐ Starred [MALSync/MALSync](https://github.com/MALSync/MALSync)<br>
-10. `2026-05-10` ⭐ Starred [open-ani/animeko](https://github.com/open-ani/animeko)<br>
+1. `2026-05-14` 🔨 Pushed 1 commits to [addynoven/tts-studio-extension](https://github.com/addynoven/tts-studio-extension)<br>
+2. `2026-05-14` ⭐ Starred [clowerweb/tts-studio](https://github.com/clowerweb/tts-studio)<br>
+3. `2026-05-14` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+4. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
+5. `2026-05-11` ⭐ Starred [allenai/molmoweb](https://github.com/allenai/molmoweb)<br>
+6. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/dammage-backend](https://github.com/addynoven/dammage-backend)<br>
+7. `2026-05-11` ⭐ Starred [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)<br>
+8. `2026-05-10` ⭐ Starred [MrBoomDeveloper/Awery](https://github.com/MrBoomDeveloper/Awery)<br>
+9. `2026-05-10` ⭐ Starred [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi)<br>
+10. `2026-05-10` ⭐ Starred [MALSync/MALSync](https://github.com/MALSync/MALSync)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
@@ -203,7 +203,7 @@ Go                       4 repos             █░░░░░░░░░░�
   
   <br/><br/>
   
-  <!-- UPDATED:START --> *Last updated: May 14, 2026* <!-- UPDATED:END -->
+  <!-- UPDATED:START --> *Last updated: May 15, 2026* <!-- UPDATED:END -->
   
 </div>
 
