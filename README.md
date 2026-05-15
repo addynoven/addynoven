@@ -101,75 +101,34 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2033%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.73%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.7 MB Used in GitHub's Storage 
+> 📦 2.8 MB Used in GitHub's Storage 
  > 
-> 🏆 738 Contributions in the Year 2026
+> 🏆 744 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 86 Public Repositories 
+> 📜 88 Public Repositories 
  > 
 > 🔑 68 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                350 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-🌆 Daytime                691 commits         ████████░░░░░░░░░░░░░░░░░   30.75 % 
-🌃 Evening                689 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌙 Night                  517 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Tuesday                  244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Wednesday                285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Thursday                 272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Friday                   426 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Saturday                 365 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Sunday                   387 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               60 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Dart                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               60 repos            ███████████░░░░░░░░░░░░░░   42.55 % 
+JavaScript               35 repos            ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 14:18:13 UTC
+ Last Updated on 15/05/2026 03:39:38 UTC
 <!--END_SECTION:waka-->
 
 ---
