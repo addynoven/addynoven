@@ -44,9 +44,9 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
   💙 TypeScript
   ⚡ JavaScript
   🌐 HTML/CSS
-  🐍 Python
   🎨 CSS
   📦 Batchfile
+  📦 Makefile
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
