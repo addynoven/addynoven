@@ -56,16 +56,16 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-05-23` ⭐ Starred [AppFuton/Futon](https://github.com/AppFuton/Futon)<br>
-2. `2026-05-22` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-3. `2026-05-18` ⭐ Starred [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database)<br>
-4. `2026-05-17` ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br>
-5. `2026-05-17` ⭐ Starred [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)<br>
-6. `2026-05-16` 🔨 Pushed 1 commits to [addynoven/tts-studio-extension](https://github.com/addynoven/tts-studio-extension)<br>
-7. `2026-05-15` ⭐ Starred [ken107/read-aloud](https://github.com/ken107/read-aloud)<br>
-8. `2026-05-15` ⭐ Starred [coqui-ai/TTS](https://github.com/coqui-ai/TTS)<br>
-9. `2026-05-14` ⭐ Starred [clowerweb/tts-studio](https://github.com/clowerweb/tts-studio)<br>
-10. `2026-05-11` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
+1. `2026-05-23` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+2. `2026-05-23` ⭐ Starred [sn0w12/AkariDatabase](https://github.com/sn0w12/AkariDatabase)<br>
+3. `2026-05-23` ⭐ Starred [AppFuton/Futon](https://github.com/AppFuton/Futon)<br>
+4. `2026-05-18` ⭐ Starred [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database)<br>
+5. `2026-05-17` ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br>
+6. `2026-05-17` ⭐ Starred [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)<br>
+7. `2026-05-16` 🔨 Pushed 1 commits to [addynoven/tts-studio-extension](https://github.com/addynoven/tts-studio-extension)<br>
+8. `2026-05-15` ⭐ Starred [ken107/read-aloud](https://github.com/ken107/read-aloud)<br>
+9. `2026-05-15` ⭐ Starred [coqui-ai/TTS](https://github.com/coqui-ai/TTS)<br>
+10. `2026-05-14` ⭐ Starred [clowerweb/tts-studio](https://github.com/clowerweb/tts-studio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
