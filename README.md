@@ -101,15 +101,13 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2054%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 916 Contributions in the Year 2026
+> 🏆 918 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,45 +115,6 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
  > 
 > 🔑 71 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-🌆 Daytime                751 commits         ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-🌃 Evening                806 commits         ████████░░░░░░░░░░░░░░░░░   31.81 % 
-🌙 Night                  599 commits         ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Tuesday                  301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Wednesday                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Thursday                 276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Friday                   485 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Saturday                 393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Sunday                   448 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -169,7 +128,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 16:04:07 UTC
+ Last Updated on 29/05/2026 03:46:43 UTC
 <!--END_SECTION:waka-->
 
 ---
