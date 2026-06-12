@@ -115,7 +115,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
  > 
 > 📜 96 Public Repositories 
  > 
-> 🔑 71 Private Repositories 
+> 🔑 72 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -159,17 +159,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               74 repos            ████████████░░░░░░░░░░░░░   46.25 % 
-JavaScript               35 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Python                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Go                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               74 repos            ███████████░░░░░░░░░░░░░░   45.96 % 
+JavaScript               35 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Python                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 
 
 
- Last Updated on 11/06/2026 16:08:08 UTC
+ Last Updated on 12/06/2026 04:09:50 UTC
 <!--END_SECTION:waka-->
 
 ---
