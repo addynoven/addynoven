@@ -63,7 +63,6 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 5. `2026-05-17` ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br>
 6. `2026-05-17` ⭐ Starred [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)<br>
 7. `2026-05-16` 🔨 Pushed 1 commits to [addynoven/tts-studio-extension](https://github.com/addynoven/tts-studio-extension)<br>
-8. `2026-05-15` ⭐ Starred [ken107/read-aloud](https://github.com/ken107/read-aloud)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
