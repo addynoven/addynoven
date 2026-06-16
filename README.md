@@ -60,7 +60,6 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 2. `2026-05-29` 🔨 Pushed 1 commits to [addynoven/music-package](https://github.com/addynoven/music-package)<br>
 3. `2026-05-23` ⭐ Starred [AppFuton/Futon](https://github.com/AppFuton/Futon)<br>
 4. `2026-05-18` ⭐ Starred [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database)<br>
-5. `2026-05-17` ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
