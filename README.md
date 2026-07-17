@@ -45,7 +45,7 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
   ⚡ JavaScript
   🌐 HTML/CSS
   🎨 CSS
-  📦 Batchfile
+  🐍 Python
   📦 Makefile
 <!-- STACK:END -->
 
