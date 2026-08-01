@@ -64,7 +64,8 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 6. `2026-08-01` ⭐ Starred [manh9011/TranskunWeb](https://github.com/manh9011/TranskunWeb)<br>
 7. `2026-07-31` 🔨 Pushed 1 commits to [addynoven/coffeeAPP](https://github.com/addynoven/coffeeAPP)<br>
 8. `2026-07-28` ⭐ Starred [powersync-ja/powersync-kotlin](https://github.com/powersync-ja/powersync-kotlin)<br>
-9. `2026-07-23` 🔨 Pushed 1 commits to [ananddub/rustploy](https://github.com/ananddub/rustploy)<br>
+9. `2026-07-17` ⭐ Starred [fluttergems/awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps)<br>
+10. `2026-07-17` ⭐ Starred [fluttergems/fluttergems](https://github.com/fluttergems/fluttergems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
