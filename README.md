@@ -41,10 +41,10 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### 🛠 Currently Working With
 
 <!-- STACK:START -->
+  🟣 Kotlin
   💙 TypeScript
   ⚡ JavaScript
   🌐 HTML/CSS
-  🟣 Kotlin
   🎨 CSS
   🐍 Python
 <!-- STACK:END -->
@@ -57,15 +57,15 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 
 <!--RECENT_ACTIVITY:start-->
 1. `2026-08-03` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-08-01` ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
-3. `2026-08-01` ⭐ Starred [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer)<br>
-4. `2026-08-01` ⭐ Starred [promptadvisers/agentic-design-patterns-docs](https://github.com/promptadvisers/agentic-design-patterns-docs)<br>
-5. `2026-08-01` ⭐ Starred [Waversense/srt2speech](https://github.com/Waversense/srt2speech)<br>
-6. `2026-08-01` ⭐ Starred [manh9011/TranskunWeb](https://github.com/manh9011/TranskunWeb)<br>
-7. `2026-07-31` 🔨 Pushed 1 commits to [addynoven/coffeeAPP](https://github.com/addynoven/coffeeAPP)<br>
-8. `2026-07-28` ⭐ Starred [powersync-ja/powersync-kotlin](https://github.com/powersync-ja/powersync-kotlin)<br>
-9. `2026-07-17` ⭐ Starred [fluttergems/awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps)<br>
-10. `2026-07-17` ⭐ Starred [fluttergems/fluttergems](https://github.com/fluttergems/fluttergems)<br>
+2. `2026-08-03` 🔨 Pushed 1 commits to [addynoven/NeonPlayer](https://github.com/addynoven/NeonPlayer)<br>
+3. `2026-08-03` 🔨 Pushed 1 commits to [addynoven/PixelPlayer-fork-backup](https://github.com/addynoven/PixelPlayer-fork-backup)<br>
+4. `2026-08-01` ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
+5. `2026-08-01` ⭐ Starred [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer)<br>
+6. `2026-08-01` ⭐ Starred [promptadvisers/agentic-design-patterns-docs](https://github.com/promptadvisers/agentic-design-patterns-docs)<br>
+7. `2026-08-01` ⭐ Starred [Waversense/srt2speech](https://github.com/Waversense/srt2speech)<br>
+8. `2026-08-01` ⭐ Starred [manh9011/TranskunWeb](https://github.com/manh9011/TranskunWeb)<br>
+9. `2026-07-31` 🔨 Pushed 1 commits to [addynoven/coffeeAPP](https://github.com/addynoven/coffeeAPP)<br>
+10. `2026-07-28` ⭐ Starred [powersync-ja/powersync-kotlin](https://github.com/powersync-ja/powersync-kotlin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
