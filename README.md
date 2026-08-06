@@ -56,16 +56,16 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-08-06` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-08-03` ⭐ Starred [zhouwg/kantv](https://github.com/zhouwg/kantv)<br>
-3. `2026-08-03` ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)<br>
-4. `2026-08-03` 🔨 Pushed 1 commits to [addynoven/NeonPlayer](https://github.com/addynoven/NeonPlayer)<br>
-5. `2026-08-03` 🔨 Pushed 1 commits to [addynoven/PixelPlayer-fork-backup](https://github.com/addynoven/PixelPlayer-fork-backup)<br>
-6. `2026-08-01` ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
-7. `2026-08-01` ⭐ Starred [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer)<br>
-8. `2026-08-01` ⭐ Starred [promptadvisers/agentic-design-patterns-docs](https://github.com/promptadvisers/agentic-design-patterns-docs)<br>
-9. `2026-08-01` ⭐ Starred [Waversense/srt2speech](https://github.com/Waversense/srt2speech)<br>
-10. `2026-08-01` ⭐ Starred [manh9011/TranskunWeb](https://github.com/manh9011/TranskunWeb)<br>
+1. `2026-08-06` 🔨 Pushed 1 commits to [addynoven/NeonTv](https://github.com/addynoven/NeonTv)<br>
+2. `2026-08-06` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+3. `2026-08-03` ⭐ Starred [zhouwg/kantv](https://github.com/zhouwg/kantv)<br>
+4. `2026-08-03` ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)<br>
+5. `2026-08-03` 🔨 Pushed 1 commits to [addynoven/NeonPlayer](https://github.com/addynoven/NeonPlayer)<br>
+6. `2026-08-03` 🔨 Pushed 1 commits to [addynoven/PixelPlayer-fork-backup](https://github.com/addynoven/PixelPlayer-fork-backup)<br>
+7. `2026-08-01` ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
+8. `2026-08-01` ⭐ Starred [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer)<br>
+9. `2026-08-01` ⭐ Starred [promptadvisers/agentic-design-patterns-docs](https://github.com/promptadvisers/agentic-design-patterns-docs)<br>
+10. `2026-08-01` ⭐ Starred [Waversense/srt2speech](https://github.com/Waversense/srt2speech)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
