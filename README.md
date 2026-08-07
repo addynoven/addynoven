@@ -101,83 +101,34 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2044%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2013%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,120 Contributions in the Year 2026
+> 🏆 1,123 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 105 Public Repositories 
+> 📜 106 Public Repositories 
  > 
 > 🔑 73 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-🌆 Daytime                981 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
-🌃 Evening                955 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌙 Night                  665 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Tuesday                  333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Thursday                 411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Friday                   598 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Saturday                 532 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Sunday                   485 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               70 repos            ███████████░░░░░░░░░░░░░░   43.21 % 
-Python                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript               70 repos            ███████████░░░░░░░░░░░░░░   42.94 % 
+Python                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
 
 
- Last Updated on 06/08/2026 14:15:52 UTC
+ Last Updated on 07/08/2026 02:46:21 UTC
 <!--END_SECTION:waka-->
 
 ---
