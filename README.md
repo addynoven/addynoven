@@ -101,6 +101,10 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2013%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -115,6 +119,51 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
  > 
 > 🔑 73 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+🌆 Daytime                981 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌃 Evening                957 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
+🌙 Night                  665 commits         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Tuesday                  333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Thursday                 413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Friday                   598 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Saturday                 532 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Sunday                   485 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -128,7 +177,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:46:21 UTC
+ Last Updated on 07/08/2026 13:08:59 UTC
 <!--END_SECTION:waka-->
 
 ---
