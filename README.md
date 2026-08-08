@@ -43,10 +43,10 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 <!-- STACK:START -->
   🟣 Kotlin
   💙 TypeScript
-  ⚡ JavaScript
   🌐 HTML/CSS
   🎨 CSS
-  🐍 Python
+  ⚡ JavaScript
+  🐚 Shell
 <!-- STACK:END -->
 
 > *Auto-detected from my recent repositories*
@@ -56,16 +56,16 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/aniyomi](https://github.com/addynoven/aniyomi)<br>
-2. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-3. `2026-08-06` 🔨 Pushed 1 commits to [addynoven/NeonTv](https://github.com/addynoven/NeonTv)<br>
-4. `2026-08-03` ⭐ Starred [zhouwg/kantv](https://github.com/zhouwg/kantv)<br>
-5. `2026-08-03` ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)<br>
-6. `2026-08-03` 🔨 Pushed 1 commits to [addynoven/NeonPlayer](https://github.com/addynoven/NeonPlayer)<br>
-7. `2026-08-03` 🔨 Pushed 1 commits to [addynoven/PixelPlayer-fork-backup](https://github.com/addynoven/PixelPlayer-fork-backup)<br>
-8. `2026-08-01` ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
-9. `2026-08-01` ⭐ Starred [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer)<br>
-10. `2026-08-01` ⭐ Starred [promptadvisers/agentic-design-patterns-docs](https://github.com/promptadvisers/agentic-design-patterns-docs)<br>
+1. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/music_server](https://github.com/addynoven/music_server)<br>
+2. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/portscope](https://github.com/addynoven/portscope)<br>
+3. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/portifolo](https://github.com/addynoven/portifolo)<br>
+4. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/music-package](https://github.com/addynoven/music-package)<br>
+5. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/bemuse](https://github.com/addynoven/bemuse)<br>
+6. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/DAMMAGE](https://github.com/addynoven/DAMMAGE)<br>
+7. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/dammage-backend](https://github.com/addynoven/dammage-backend)<br>
+8. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/commerce](https://github.com/addynoven/commerce)<br>
+9. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/printing_backend](https://github.com/addynoven/printing_backend)<br>
+10. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/aarti_taxi](https://github.com/addynoven/aarti_taxi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
