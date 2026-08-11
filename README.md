@@ -41,11 +41,11 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### 🛠 Currently Working With
 
 <!-- STACK:START -->
-  🟣 Kotlin
   💙 TypeScript
   🌐 HTML/CSS
-  🎨 CSS
+  🟣 Kotlin
   ⚡ JavaScript
+  🎨 CSS
   🐚 Shell
 <!-- STACK:END -->
 
@@ -56,16 +56,16 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 **:zap: Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. `2026-08-11` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-08-09` 🔨 Pushed 1 commits to [addynoven/mihon](https://github.com/addynoven/mihon)<br>
-3. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/music_server](https://github.com/addynoven/music_server)<br>
-4. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/portscope](https://github.com/addynoven/portscope)<br>
-5. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/portifolo](https://github.com/addynoven/portifolo)<br>
-6. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/music-package](https://github.com/addynoven/music-package)<br>
-7. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/bemuse](https://github.com/addynoven/bemuse)<br>
-8. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/DAMMAGE](https://github.com/addynoven/DAMMAGE)<br>
-9. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/dammage-backend](https://github.com/addynoven/dammage-backend)<br>
-10. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/commerce](https://github.com/addynoven/commerce)<br>
+1. `2026-08-11` 🔨 Pushed 1 commits to [addynoven/openoxide](https://github.com/addynoven/openoxide)<br>
+2. `2026-08-11` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
+3. `2026-08-09` 🔨 Pushed 1 commits to [addynoven/mihon](https://github.com/addynoven/mihon)<br>
+4. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/music_server](https://github.com/addynoven/music_server)<br>
+5. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/portscope](https://github.com/addynoven/portscope)<br>
+6. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/portifolo](https://github.com/addynoven/portifolo)<br>
+7. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/music-package](https://github.com/addynoven/music-package)<br>
+8. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/bemuse](https://github.com/addynoven/bemuse)<br>
+9. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/DAMMAGE](https://github.com/addynoven/DAMMAGE)<br>
+10. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/dammage-backend](https://github.com/addynoven/dammage-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
