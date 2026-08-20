@@ -41,9 +41,9 @@ hobbies: ["Coding", "Gaming", "Music", "Building Side Projects"]
 ### 🛠 Currently Working With
 
 <!-- STACK:START -->
-  🟣 Kotlin
   💙 TypeScript
   🌐 HTML/CSS
+  🟣 Kotlin
   🎨 CSS
   ⚡ JavaScript
   🐚 Shell
