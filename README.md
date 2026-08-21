@@ -8,7 +8,7 @@
 <h1 style="margin: 0 0 8px 0; font-size: 32px; border-bottom: none;">Aditya Sahu</h1>
 
 <!-- TYPING:START -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=450&height=32&size=16&lines=Full-Stack+Developer;Backend+System+Designer;Feature-Driven+Modular+Monoliths;Building+Scalable+%26+Resilient+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=495&lines=Training+AI+Models;Crunching+Data+with+Python" alt="Typing SVG" />
 <!-- TYPING:END -->
 
 <p style="margin: 18px 0 0 0;">
