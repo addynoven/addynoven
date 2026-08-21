@@ -12,6 +12,7 @@
 <!-- TYPING:END -->
 
 <p style="margin: 18px 0 0 0;">
+<a href="https://portfolio-v1-tau-lake.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/addynoven"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aditya-sahu-34350b193/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://x.com/addynoven"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a> &nbsp;&nbsp;&nbsp;
