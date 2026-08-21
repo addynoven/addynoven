@@ -8,7 +8,7 @@
 <h1 style="margin: 0 0 8px 0; font-size: 32px; border-bottom: none;">Aditya Sahu</h1>
 
 <!-- TYPING:START -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=495&lines=Full-Stack+Developer;Building+apps+%26+breaking+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=495&lines=Building+Web+Apps;TypeScript+Development" alt="Typing SVG" />
 <!-- TYPING:END -->
 
 <p style="margin: 18px 0 0 0;">
