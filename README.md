@@ -26,42 +26,7 @@
 
 ---
 
-### ⚡ Recent Activity
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<!--RECENT_ACTIVITY:start-->
-1. `2026-08-21` 🔨 Pushed 1 commits to [addynoven/addynoven](https://github.com/addynoven/addynoven)<br>
-2. `2026-08-20` 🔨 Pushed 1 commits to [addynoven/KINETIC-TODO](https://github.com/addynoven/KINETIC-TODO)<br>
-3. `2026-08-18` 🔨 Pushed 1 commits to [addynoven/coffeeAPP](https://github.com/addynoven/coffeeAPP)<br>
-4. `2026-08-16` ⭐ Starred [nkrider7/fishman](https://github.com/nkrider7/fishman)<br>
-5. `2026-08-15` ⭐ Starred [Ashutoshx7/VengeanceUI](https://github.com/Ashutoshx7/VengeanceUI)<br>
-6. `2026-08-14` ⭐ Starred [ShivaBhattacharjee/Tokokino](https://github.com/ShivaBhattacharjee/Tokokino)<br>
-7. `2026-08-09` 🔨 Pushed 1 commits to [addynoven/mihon](https://github.com/addynoven/mihon)<br>
-8. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/music_server](https://github.com/addynoven/music_server)<br>
-9. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/portscope](https://github.com/addynoven/portscope)<br>
-10. `2026-08-08` 🔨 Pushed 1 commits to [addynoven/portifolo](https://github.com/addynoven/portifolo)<br>
-<!--RECENT_ACTIVITY:end-->
-
-</td>
-<td width="50%" valign="top">
-
-11. `2026-08-07` 🔨 Pushed 2 commits to [addynoven/KINETIC-TODO](https://github.com/addynoven/KINETIC-TODO)<br>
-12. `2026-08-06` 🔨 Pushed 1 commits to [addynoven/coffeeAPP](https://github.com/addynoven/coffeeAPP)<br>
-13. `2026-08-05` ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
-14. `2026-08-04` 🔨 Pushed 3 commits to [addynoven/music_server](https://github.com/addynoven/music_server)<br>
-15. `2026-08-03` ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
-16. `2026-08-02` 🔨 Pushed 1 commits to [addynoven/portscope](https://github.com/addynoven/portscope)<br>
-17. `2026-08-01` 🔨 Pushed 4 commits to [addynoven/KINETIC-TODO](https://github.com/addynoven/KINETIC-TODO)<br>
-18. `2026-07-30` ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
-19. `2026-07-28` 🔨 Pushed 1 commits to [addynoven/coffeeAPP](https://github.com/addynoven/coffeeAPP)<br>
-20. `2026-07-25` 🔨 Pushed 2 commits to [addynoven/music_server](https://github.com/addynoven/music_server)
-
-</td>
-</tr>
-</table>
+<img src="recent_activity.svg" alt="Recent Activity" width="100%" />
 
 ### 📊 Activity & Language Telemetry
 
