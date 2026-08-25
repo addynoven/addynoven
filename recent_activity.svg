@@ -20,14 +20,12 @@ text, tspan { white-space: pre; }
 <text y="190"><tspan x="25" fill="#484f58"> 7.</tspan><tspan x="60" fill="#616e7f">08-14</tspan><tspan x="115" fill="#e3b341">STAR</tspan><tspan x="165" fill="#a5d6ff">ShivaBhattacharjee/Tokokino</tspan></text>
 <text y="212"><tspan x="25" fill="#484f58"> 8.</tspan><tspan x="60" fill="#616e7f">08-09</tspan><tspan x="115" fill="#3fb950">PUSH</tspan><tspan x="165" fill="#a5d6ff">mihon</tspan></text>
 <text y="234"><tspan x="25" fill="#484f58"> 9.</tspan><tspan x="60" fill="#616e7f">08-08</tspan><tspan x="115" fill="#3fb950">PUSH</tspan><tspan x="165" fill="#a5d6ff">music_server</tspan></text>
-<text y="256"><tspan x="25" fill="#484f58">10.</tspan><tspan x="60" fill="#616e7f">08-08</tspan><tspan x="115" fill="#3fb950">PUSH</tspan><tspan x="165" fill="#a5d6ff">portscope</tspan></text>
-<text y="58"><tspan x="505" fill="#484f58">11.</tspan><tspan x="540" fill="#616e7f">08-08</tspan><tspan x="595" fill="#3fb950">PUSH</tspan><tspan x="645" fill="#a5d6ff">portifolo</tspan></text>
-<text y="80"><tspan x="505" fill="#484f58">12.</tspan><tspan x="540" fill="#616e7f">08-03</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">zhouwg/kantv</tspan></text>
-<text y="102"><tspan x="505" fill="#484f58">13.</tspan><tspan x="540" fill="#616e7f">08-03</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">iptv-org/iptv</tspan></text>
-<text y="124"><tspan x="505" fill="#484f58">14.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">massgravel/Microsoft-Activati...</tspan></text>
-<text y="146"><tspan x="505" fill="#484f58">15.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">PixelPlayerHQ/PixelPlayer</tspan></text>
-<text y="168"><tspan x="505" fill="#484f58">16.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">promptadvisers/agentic-design...</tspan></text>
-<text y="190"><tspan x="505" fill="#484f58">17.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">Waversense/srt2speech</tspan></text>
-<text y="212"><tspan x="505" fill="#484f58">18.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">manh9011/TranskunWeb</tspan></text>
-<text y="234"><tspan x="505" fill="#484f58">19.</tspan><tspan x="540" fill="#616e7f">07-28</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">powersync-ja/powersync-kotlin</tspan></text>
+<text y="256"><tspan x="25" fill="#484f58">10.</tspan><tspan x="60" fill="#616e7f">08-03</tspan><tspan x="115" fill="#e3b341">STAR</tspan><tspan x="165" fill="#a5d6ff">zhouwg/kantv</tspan></text>
+<text y="58"><tspan x="505" fill="#484f58">11.</tspan><tspan x="540" fill="#616e7f">08-03</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">iptv-org/iptv</tspan></text>
+<text y="80"><tspan x="505" fill="#484f58">12.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">massgravel/Microsoft-Activati...</tspan></text>
+<text y="102"><tspan x="505" fill="#484f58">13.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">PixelPlayerHQ/PixelPlayer</tspan></text>
+<text y="124"><tspan x="505" fill="#484f58">14.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">promptadvisers/agentic-design...</tspan></text>
+<text y="146"><tspan x="505" fill="#484f58">15.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">Waversense/srt2speech</tspan></text>
+<text y="168"><tspan x="505" fill="#484f58">16.</tspan><tspan x="540" fill="#616e7f">08-01</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">manh9011/TranskunWeb</tspan></text>
+<text y="190"><tspan x="505" fill="#484f58">17.</tspan><tspan x="540" fill="#616e7f">07-28</tspan><tspan x="595" fill="#e3b341">STAR</tspan><tspan x="645" fill="#a5d6ff">powersync-ja/powersync-kotlin</tspan></text>
 </svg>
