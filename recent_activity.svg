@@ -12,7 +12,7 @@ text, tspan { white-space: pre; }
 <text x="25" y="28" fill="#c9d1d9" font-size="14px">recent-activity<tspan fill="#616e7f">@</tspan><tspan fill="#ffa657">neon</tspan><tspan fill="#30363d"> ─────────────────────────────────────────────────────────────────────────────</tspan></text>
 
 <text y="58"><tspan x="25" fill="#484f58"> 1.</tspan><tspan x="60" fill="#616e7f">09-03</tspan><tspan x="115" fill="#3fb950">PUSH</tspan><tspan x="165" fill="#a5d6ff">scheme-backend</tspan></text>
-<text y="80"><tspan x="25" fill="#484f58"> 2.</tspan><tspan x="60" fill="#616e7f">09-03</tspan><tspan x="115" fill="#3fb950">PUSH</tspan><tspan x="165" fill="#a5d6ff">addynoven</tspan></text>
+<text y="80"><tspan x="25" fill="#484f58"> 2.</tspan><tspan x="60" fill="#616e7f">09-04</tspan><tspan x="115" fill="#3fb950">PUSH</tspan><tspan x="165" fill="#a5d6ff">addynoven</tspan></text>
 <text y="102"><tspan x="25" fill="#484f58"> 3.</tspan><tspan x="60" fill="#616e7f">08-29</tspan><tspan x="115" fill="#3fb950">PUSH</tspan><tspan x="165" fill="#a5d6ff">LuxeStay</tspan></text>
 <text y="124"><tspan x="25" fill="#484f58"> 4.</tspan><tspan x="60" fill="#616e7f">08-29</tspan><tspan x="115" fill="#3fb950">PUSH</tspan><tspan x="165" fill="#a5d6ff">cakebox</tspan></text>
 <text y="146"><tspan x="25" fill="#484f58"> 5.</tspan><tspan x="60" fill="#616e7f">08-29</tspan><tspan x="115" fill="#e3b341">STAR</tspan><tspan x="165" fill="#a5d6ff">nmnhut-it/educational-video-p...</tspan></text>
